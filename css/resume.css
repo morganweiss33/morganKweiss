@@ -18,8 +18,8 @@ body {
   padding-top: 54px;
   padding-left: 10px;
   padding-right:10px;
-  color: #5D5D5D;
-  background-color: #D2D5E3;
+  color: #5F8575;
+  background-color: #323131;
 }
 
 @media (min-width: 992px) {
@@ -38,7 +38,7 @@ h6 {
   font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
   text-transform: uppercase;
-  color: #5168CF;
+  color: #C9A9A6;
 }
 
 h1 {
@@ -161,7 +161,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #5168CF !important;
+  background-color: #5F8575 !important;
 }
 
 .interestsMorgan img
@@ -174,13 +174,13 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #5D5D5D !important;
+  color: #5F8575 !important;
 }
 .mid-name{
-  color: #454547;
+  color: #FA8072;
 }
 .halfPage{
-  color: black;
+  color: white;
 }
 
 .halfPage article{
@@ -206,11 +206,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #62627E;
+  color: #FA8072;
 }
 
 a:hover, a:focus, a:active {
-  color: #5353CE;
+  color: #C9A9A6;
 }
 .gmaAndPapa img
 {
